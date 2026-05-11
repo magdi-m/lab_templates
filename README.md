@@ -4,8 +4,8 @@
 
 | Field     | Value               |
 |-----------|---------------------|
-| **Name**  | _John Doe_          |
-| **Group** | _CS-101_            |
+| **Name**  | Мутаев Магди          |
+| **Group** | РПОиПИИ         |
 
 > **Replace the data above with your own!**
 
